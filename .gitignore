@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Logs de la JVM y archivos del IDE
+hs_err_pid*.log
+replay_pid*.log
+.idea/
+.kotlin/
